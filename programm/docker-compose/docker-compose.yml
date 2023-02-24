@@ -2,6 +2,3 @@ version: "2"
 services:
   uebungsprojekt:
     build: ./programm
-    stdin_open: true
-    tty: true
-
