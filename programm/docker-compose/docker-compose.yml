@@ -1,4 +1,7 @@
 version: "2"
 services:
-  todoapp:
+  uebungsprojekt:
     build: ./programm
+    stdin_open: true
+    tty: true
+
